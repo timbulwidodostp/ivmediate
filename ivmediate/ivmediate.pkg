@@ -1,4 +1,10 @@
-D 'mcset': The Model Confidence Set (MCS) Use mcset With STATA 19
+D 'ivmediate': Causal mediation analysis for linear instrumental-variables models Use ivmediate With STATA 19
 D
-F mcset.ado
-F mcset.sthlp
+F ivmediate.ado
+F ivmediate.sthlp
+F livreg2.mlib
+F ranktest.ado
+F ranktest.sthlp
+F ranktest11.ado
+F ranktest11.sthlp
+F ranktest9.ado
